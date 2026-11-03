@@ -4,4 +4,8 @@ The "classic" rebalancing-gamemode that was added in patch 1.38 made the aliens 
 
 So I decided to create my own mod for 2160, and while originally I only planned on changing the mentioned aspects, I discovered more and more things that I felt could use some revision in the process, so at the end it turned out to be much more complex than I had in mind in the first place.
 
-Credit: Tika
+---
+
+**Author:** Tika  
+**Version:** 1.14  
+**Type:** Game
