@@ -1,3 +1,1 @@
-Unknown
-
-Credit: Unknown
+**Type:** Game
