@@ -2,4 +2,8 @@ The Alien Development Project is a project designed to add the required extra ma
 
 ADP v0.43 now includes EScripts v0.7
 
-Credit: FoC-D
+---
+
+**Author:** FoC-D  
+**Version:** 0.43  
+**Type:** Game
