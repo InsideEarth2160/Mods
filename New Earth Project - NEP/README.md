@@ -8,4 +8,8 @@ Mod features: - New/old units from others game series, like Tiger for UCS , LBT(
 - Completely new reworked aliens, with much better morphing system (Morphoid player now “tech” like other nations...)
 - Old/New weapons technologies , with behave like as the ones from older games from this series .
 
-Credit: Raptorad, Ltemplar
+---
+
+**Author:** Raptorad & Ltemplar  
+**Version:** 2.0  
+**Type:** Game
