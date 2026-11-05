@@ -5,4 +5,5 @@ Gamers, who install the SuperStorm mod, take profit from new team options. These
 ---
 
 **Author:** SpaceTug  
+**Version:** v3.0  
 **Type:** AI & Combat Logic Overhauls
