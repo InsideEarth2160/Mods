@@ -4,4 +4,4 @@ A mod that increases the size of the in game front size to make text easier to r
 
 **Author:** Ajack  
 **Version:** 0.1  
-**Type:** Interface
+**Type:** UI & Interface Mods
