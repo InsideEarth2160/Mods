@@ -6,4 +6,4 @@ ADP v0.43 now includes EScripts v0.7
 
 **Author:** FoC-D  
 **Version:** 0.43  
-**Type:** Game
+**Type:** Total Conversions / Full Mods

@@ -12,4 +12,4 @@ Mod features: - New/old units from others game series, like Tiger for UCS , LBT(
 
 **Author:** Raptorad & Ltemplar  
 **Version:** 2.0  
-**Type:** Game
+**Type:** Total Conversions / Full Mods

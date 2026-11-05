@@ -1,2 +1,2 @@
 **Version:** 1.7  
-**Type:** Game
+**Type:** Total Conversions / Full Mods

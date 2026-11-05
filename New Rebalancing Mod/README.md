@@ -8,4 +8,4 @@ So I decided to create my own mod for 2160, and while originally I only planned 
 
 **Author:** Tika  
 **Version:** 1.14  
-**Type:** Game
+**Type:** Total Conversions / Full Mods

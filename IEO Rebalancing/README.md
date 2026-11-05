@@ -3,4 +3,4 @@ The Rebalancing Project is an attempt to correct Earth 2160's balancing in a way
 ---
 
 **Version:** 8.2  
-**Type:** Game
+**Type:** Total Conversions / Full Mods
